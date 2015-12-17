@@ -45,6 +45,8 @@ php artisan db:seed
 php artisan serve --port 9096
 ```
 
+http://localhost:9096/
+
 
 ## 8. 查看路由列表
 
@@ -58,3 +60,12 @@ php artisan route:list
 ```
 php artisan route:list >output.txt
 ```
+
+
+## 9. 验证 REST Api
+
+客户端 https://github.com/wyrover/todo-api-client
+
+或者使用 Postman 测试
+
+
