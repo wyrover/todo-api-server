@@ -66,6 +66,6 @@ php artisan route:list >output.txt
 
 客户端 https://github.com/wyrover/todo-api-client
 
-或者使用 Postman 测试
+或者使用 Postman 测试 chrome-extension://fdmmgilgnpjigdojojpjoooidkmcomcm/index.html
 
 
